@@ -30,7 +30,7 @@ function pari0Dispari(somma) {
 
 // IL VINCITORE
 if (pari0Dispari(somma) == true){
-  console.log('hai vinto');
+  alert('hai vinto');
 } else {
-  console.log('hai perso');
+  alert('hai perso');
 }
